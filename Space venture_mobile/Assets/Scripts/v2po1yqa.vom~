@@ -1,0 +1,51 @@
+using UnityEngine;
+
+public class ButtonManager : MonoBehaviour
+{
+
+    [SerializeField] private GameObject Button_1;
+    [SerializeField] private GameObject Button_2;
+
+
+    private void Awake()
+    {
+
+    }
+    public void StartGame()
+    {
+        SceneManager.LoadScene(1);
+    }
+    public void Restart()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+    public void Pause()
+    {
+        Time.timeScale = 0;
+    }
+    public void Resume()
+    {
+        Time.timeScale = 1;
+    }
+    public void Quite()
+    {
+        Application.Quit();
+    }
+    public void PlaySound()
+    {
+        Button_1.SetActive(true);
+        Button_2.SetActive(false);
+        //audioManager.Stop();
+        FindAnyObjectByType<AudioManager>().UnPauseSound();
+        FindAnyObjectByType<AudioManager>().Play("BackGroundTheme");
+
+    }
+    public void MuteSound()
+    {
+        Button_2.SetActive(true);
+        Button_1.SetActive(false);
+        FindAnyObjectByType<AudioManager>().PauseSound();
+
+
+    }
+}

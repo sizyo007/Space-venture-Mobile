@@ -1,0 +1,645 @@
+fileFormatVersion: 2
+guid: 5a46a5c0cc298d2428c74a74afb35673
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 822504558703882474
+    second: UI 1_0
+  - first:
+      213: -7054688187978672202
+    second: UI 1_1
+  - first:
+      213: -8132923703055857805
+    second: UI 1_2
+  - first:
+      213: 4353910902837494212
+    second: UI 1_3
+  - first:
+      213: -990813372695596062
+    second: UI 1_4
+  - first:
+      213: 4191729971547097103
+    second: UI 1_5
+  - first:
+      213: 1861290548424415969
+    second: UI 1_6
+  - first:
+      213: -3954930158521233397
+    second: UI 1_7
+  - first:
+      213: 2040146047959538324
+    second: UI 1_8
+  - first:
+      213: 3541315635115693704
+    second: UI 1_9
+  - first:
+      213: -1853860467712780986
+    second: UI 1_10
+  - first:
+      213: -4846124035487540287
+    second: UI 1_11
+  - first:
+      213: -1127037699163735007
+    second: UI 1_12
+  - first:
+      213: -2189885317640878068
+    second: UI 1_13
+  - first:
+      213: 7892010473777940420
+    second: UI 1_14
+  - first:
+      213: 3972941166040872327
+    second: UI 1_15
+  - first:
+      213: -4396457546342399234
+    second: UI 1_16
+  - first:
+      213: 8099415235507823203
+    second: UI 1_17
+  - first:
+      213: 93289374646338479
+    second: UI 1_18
+  - first:
+      213: 435497676536411687
+    second: UI 1_19
+  - first:
+      213: -2486363178589737366
+    second: UI 1_20
+  - first:
+      213: 5220512308977051129
+    second: UI 1_21
+  - first:
+      213: 3543322687429037029
+    second: UI 1_22
+  - first:
+      213: 8790435368147446310
+    second: UI 1_23
+  - first:
+      213: 7093645959856335378
+    second: UI 1_24
+  - first:
+      213: -7466184292611299174
+    second: UI 1_25
+  - first:
+      213: -1858194843346146531
+    second: UI 1_26
+  - first:
+      213: 8936479089858260416
+    second: UI 1_27
+  - first:
+      213: 3920562556648124762
+    second: UI 1_28
+  - first:
+      213: 6702132522261096168
+    second: UI 1_29
+  - first:
+      213: 6957140215733107505
+    second: UI 1_30
+  - first:
+      213: 3850158246104586458
+    second: UI 1_31
+  - first:
+      213: -6955124122666950598
+    second: UI 1_32
+  - first:
+      213: 2497775577019224114
+    second: UI 1_33
+  - first:
+      213: 349447857463026642
+    second: UI 1_34
+  - first:
+      213: -4134890950008321883
+    second: UI 1_35
+  - first:
+      213: 2960376073132901429
+    second: UI 1_36
+  - first:
+      213: 2056290978812834293
+    second: UI 1_37
+  - first:
+      213: 8564849650574030079
+    second: UI 1_38
+  - first:
+      213: 6436080506479904558
+    second: UI 1_39
+  - first:
+      213: 8789333799064008774
+    second: UI 1_40
+  - first:
+      213: 8028223040695288853
+    second: UI 1_41
+  - first:
+      213: 3301196924935395255
+    second: UI 1_42
+  - first:
+      213: -3970662169726865493
+    second: UI 1_43
+  - first:
+      213: 4380257670864125037
+    second: UI 1_44
+  - first:
+      213: 4404188451382882313
+    second: UI 1_45
+  - first:
+      213: -5971873941924844698
+    second: UI 1_46
+  - first:
+      213: 9098433608018161357
+    second: UI 1_47
+  - first:
+      213: 6271733832378623604
+    second: UI 1_48
+  - first:
+      213: 1481399392220943140
+    second: UI 1_49
+  - first:
+      213: 7000651778018848512
+    second: UI 1_50
+  - first:
+      213: 18790811974476707
+    second: UI 1_51
+  - first:
+      213: 2194983609274362168
+    second: UI 1_52
+  - first:
+      213: -4175290493086474516
+    second: UI 1_53
+  - first:
+      213: -1364080967983403863
+    second: UI 1_54
+  - first:
+      213: -6600300359450189971
+    second: UI 1_55
+  - first:
+      213: -3592291645966815960
+    second: UI 1_56
+  - first:
+      213: 5479807224790173345
+    second: UI 1_57
+  - first:
+      213: 3656542239682786081
+    second: UI 1_58
+  - first:
+      213: 6332204516919520528
+    second: UI 1_59
+  - first:
+      213: -3668530203367189405
+    second: UI 1_60
+  - first:
+      213: 371052948244625852
+    second: UI 1_61
+  - first:
+      213: -1025157881155984470
+    second: UI 1_62
+  - first:
+      213: -1792184085939363208
+    second: UI 1_63
+  - first:
+      213: 7096019868327284704
+    second: UI 1_64
+  - first:
+      213: 2709053543963096360
+    second: UI 1_65
+  - first:
+      213: -4874077064318102142
+    second: UI 1_66
+  - first:
+      213: -5907792171953813227
+    second: UI 1_67
+  - first:
+      213: 238570910281999430
+    second: UI 1_68
+  - first:
+      213: -2176870438996153011
+    second: UI 1_69
+  - first:
+      213: 8802083835116535369
+    second: UI 1_70
+  - first:
+      213: 2892318088054742328
+    second: UI 1_71
+  - first:
+      213: -6326482201810148372
+    second: UI 1_72
+  - first:
+      213: -5387645284129380637
+    second: UI 1_73
+  - first:
+      213: -7707522234362415805
+    second: UI 1_74
+  - first:
+      213: -4399584219935425994
+    second: UI 1_75
+  - first:
+      213: 4582904284519473243
+    second: UI 1_76
+  - first:
+      213: 3863318990495335000
+    second: UI 1_77
+  - first:
+      213: 7914185700282810716
+    second: UI 1_78
+  - first:
+      213: 3340008728139546458
+    second: UI 1_79
+  - first:
+      213: -3061566184271979560
+    second: UI 1_80
+  - first:
+      213: -4211767827903177048
+    second: UI 1_81
+  - first:
+      213: -7932282599261421859
+    second: UI 1_82
+  - first:
+      213: -7761801393803593715
+    second: UI 1_83
+  - first:
+      213: 4697679089182901213
+    second: UI 1_84
+  - first:
+      213: 4468667774082093183
+    second: UI 1_85
+  - first:
+      213: 6605948823908451821
+    second: UI 1_86
+  - first:
+      213: -3782584821732862492
+    second: UI 1_87
+  - first:
+      213: 6900441176414455363
+    second: UI 1_88
+  - first:
+      213: 8001266000435308704
+    second: UI 1_89
+  - first:
+      213: 5041882078906088826
+    second: UI 1_90
+  - first:
+      213: 4438149661122016031
+    second: UI 1_91
+  - first:
+      213: 3216545089247955812
+    second: UI 1_92
+  - first:
+      213: 3306389578587187094
+    second: UI 1_93
+  - first:
+      213: 4781256194755508358
+    second: UI 1_94
+  - first:
+      213: -4687351332173831653
+    second: UI 1_95
+  - first:
+      213: 3727049859952009393
+    second: UI 1_96
+  - first:
+      213: -7057082478107627717
+    second: UI 1_97
+  - first:
+      213: -510569063702744284
+    second: UI 1_98
+  - first:
+      213: -8278955928476316455
+    second: UI 1_99
+  - first:
+      213: -3128276298960069771
+    second: UI 1_100
+  - first:
+      213: -7146246097367835545
+    second: UI 1_101
+  - first:
+      213: -317896939898837263
+    second: UI 1_102
+  - first:
+      213: -1846649994542307398
+    second: UI 1_103
+  - first:
+      213: -2130578777408382458
+    second: UI 1_104
+  - first:
+      213: 3155332327643491573
+    second: UI 1_105
+  - first:
+      213: -5063917221461982987
+    second: UI 1_106
+  - first:
+      213: -7258435407374981603
+    second: UI 1_107
+  - first:
+      213: -6674014864227640238
+    second: UI 1_108
+  - first:
+      213: -3381628882390615273
+    second: UI 1_109
+  - first:
+      213: -3801548423011368120
+    second: UI 1_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI 1_58
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2576
+        width: 145
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123f0863bc5aeb230800000000000000
+      internalID: 3656542239682786081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI 1_74
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2628
+        width: 196
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34537623d51690590800000000000000
+      internalID: -7707522234362415805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI 1_109
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 78
+        width: 709
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bf7e6b27a0211d0800000000000000
+      internalID: -3381628882390615273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI 1_0
+      rect:
+        serializedVersion: 2
+        x: 6590
+        y: 2982
+        width: 495
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6facfe204508aad4985f33e34ea286f7
+      internalID: -1732395829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI 1_3
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 2744
+        width: 588
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9642fd51dea2af4380de687f3730d5b
+      internalID: -1471769714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI 1_2
+      rect:
+        serializedVersion: 2
+        x: 7258
+        y: 2747
+        width: 577
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a23120fb3dfa364aae22e112524e8ec
+      internalID: -818763481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI 1_1
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 2983
+        width: 506
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3519dfd3aea2e42b4cc1c9360539f9
+      internalID: -621920186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI 1_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3143
+        width: 736
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e18f150fdf1744b949b3c087faad5
+      internalID: -398621436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fcb4c365960ba5140b1e4228afd2ebf4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI 1_0: -1732395829
+      UI 1_1: -621920186
+      UI 1_111: -1952561845
+      UI 1_2: -818763481
+      UI 1_3: -1471769714
+      UI 1_4: -398621436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

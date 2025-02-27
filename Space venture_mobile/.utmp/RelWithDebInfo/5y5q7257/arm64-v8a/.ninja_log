@@ -1,0 +1,12 @@
+# ninja log v5
+37	171	7618348654309924	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f3a67c4ef601a7d3
+173	307	7618348655686327	Z:/Unity Engine/Unity other project/SpaceVenture_Git/SpaceVenture_Main/SpaceVenture/Space venture/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5y5q7257/obj/arm64-v8a/libswappywrapper.so	6a03c3f1d4e2e334
+14	687	7618348659354532	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	fee7e7be24598f04
+6	716	7618348659711813	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a5befc982ce7d546
+18	732	7618348659880557	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b0f6f53a45b0c992
+31	773	7618348660350692	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c195ccb07bdd3e56
+27	822	7618348660833232	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	38b5bc6afabc8e88
+10	839	7618348661014567	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	fc21b766c02de23c
+22	979	7618348662402924	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	146084b341c646fe
+1	1074	7618348663342061	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	7707d1b688b9f768
+1074	1162	7618348664270324	Z:/Unity Engine/Unity other project/SpaceVenture_Git/SpaceVenture_Main/SpaceVenture/Space venture/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5y5q7257/obj/arm64-v8a/libgame.so	3e14937810265603
